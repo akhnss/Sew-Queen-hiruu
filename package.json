@@ -38,7 +38,7 @@
     "google-tts-api": "^2.0.2",
     "qrcode-reader": "^1.0.4",
     "heroku-client": "^3.1.0",
-    "jimp": "^0.16.1",
+    "jimp": "^0.22.12",
     "js-ffmpeg": "0.0.26",
     "file-type": "^16.5.2",
     "jsdom": "^16.6.0",
