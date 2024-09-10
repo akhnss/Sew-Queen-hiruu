@@ -50,7 +50,7 @@
     "node-tesseract-ocr": "^2.0.0",
     "pg": "8.5.1",
     "cookie": "^0.4.1",
-    "sqlite3": "5.0.0",
+    "sqlite3": "5.1.7",
     "yt-search": "^2.7.4",
     "cookie": "^0.4.1",
     "instatouch": "^2.3.3"
