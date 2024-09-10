@@ -39,7 +39,7 @@
     "qrcode-reader": "^1.0.4",
     "heroku-client": "^3.1.0",
     "jimp": "^0.16.1",
-    "js-ffmpeg": "0.0.26",
+    "js-ffmpeg": "0.0.38",
     "file-type": "^16.5.2",
     "jsdom": "^16.6.0",
     "langs": "^2.0.0",
